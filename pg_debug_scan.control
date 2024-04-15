@@ -1,0 +1,5 @@
+comment = 'pg_debug_scan'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/pg_debug_scan'
+relocatable = false
+superuser = true
